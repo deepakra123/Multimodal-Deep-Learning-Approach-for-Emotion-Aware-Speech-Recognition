@@ -6,7 +6,7 @@ This project presents a deep learning-based speech recognition system built usin
 
 The project utilizes the LibriSpeech dataset, Whisper Base model, and LoRA (Low-Rank Adaptation) to fine-tune a pre-trained speech recognition model with reduced computational requirements. Comprehensive evaluation metrics such as Word Error Rate (WER), Character Error Rate (CER), BLEU Score, Precision, Recall, F1-Score, Accuracy, ROC Curves, and Confusion Matrices are used to assess performance.
 
-Problem Statement
+Problem Statement:
 
 Automatic Speech Recognition (ASR) systems play a crucial role in voice assistants, accessibility tools, customer service automation, healthcare applications, and human-computer interaction. Traditional ASR systems require extensive computational resources and large datasets for training.
 
