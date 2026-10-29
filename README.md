@@ -2,6 +2,10 @@
 
 This repository contains a notebook-first speech recognition project built around OpenAI Whisper, PEFT, and LoRA. The workflow focuses on efficient fine-tuning and evaluation on the LibriSpeech ASR dataset, with the repo organized so the notebook, outputs, and reusable assets have clear homes.
 
+## Demo
+
+[Open the Streamlit demo](http://127.0.0.1:8501/)
+
 ## Overview
 
 The project demonstrates an end-to-end speech recognition pipeline that transcribes audio to text while keeping training cost low through parameter-efficient fine-tuning. It is designed for experimentation in Google Colab or a local Jupyter environment.
